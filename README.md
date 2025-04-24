@@ -68,9 +68,6 @@ Department categories in the store.
 
 This is a modified version of the dataset originally provided by Instacart for a [Kaggle competition](https://www.kaggle.com/competitions/instacart-market-basket-analysis). The dataset has been reduced in size and includes missing values and duplicates to enhance data wrangling practice.
 
-## ▶️ How to Run
+## ▶️ Conclusions
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/instacart-analysis.git
-cd instacart-analysis
+Answered in the notebook.
